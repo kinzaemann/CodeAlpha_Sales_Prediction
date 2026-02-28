@@ -107,8 +107,3 @@ This project is for educational purposes as part of the **CodeAlpha Data Science
 
 ---
 
-## 👤 Author
-
-**Kinza Eman**  
-🔗 [Kaggle Profile](https://www.kaggle.com/kinzaemannn)  
-🔗 [GitHub](https://github.com/kinzaemannn)
